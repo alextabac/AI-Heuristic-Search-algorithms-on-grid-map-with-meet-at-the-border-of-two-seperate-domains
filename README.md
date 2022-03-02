@@ -1,6 +1,11 @@
 # Heuristic-grid-map-search-meet-at-the-border-of-two-graphs
-Code:  JAVA
 A program to implement and test-run heuristic search algorithms on a grid map or two maps that meet at a border.
+This program main purpose is to composite one big map out of 2 maps (or out of 16 maps).
+Code:  JAVA
+Map files must be located in a sibling folder named "Maps" ("../Maps").
+Output files, CSV format, are saved in the same folder as the main program.
+
+
 This program has several GUIs for user to select.
 This program comes with everything needed to run, includded more than a few search algorithms with three different heuristics.
 The algorithms included are for 2D maps as well as for 3D maps.
