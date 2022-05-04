@@ -6,6 +6,7 @@ The problem name is MATB: Meeting At The Border of two separate domains.
 
 Code:  JAVA
 Map files must be located in a sibling folder named "Maps" ("../Maps").
+Maps were downloaded from known benchmark:  https://www.movingai.com/
 Output files, CSV format, are saved in the same folder as the main program.
 
 This program was developed during my research study at BGU university.
