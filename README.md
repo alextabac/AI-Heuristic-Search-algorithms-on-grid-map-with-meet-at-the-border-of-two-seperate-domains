@@ -7,6 +7,7 @@ The problem name is MATB: Meeting At The Border of two separate domains.
 Code:  JAVA
 Map files must be located in a sibling folder named "Maps" ("../Maps").
 Maps were downloaded from known benchmark:  https://www.movingai.com/
+
 Output files, CSV format, are saved in the same folder as the main program.
 
 This program was developed during my research study at BGU university.
@@ -19,7 +20,7 @@ in marathon mode for collecting statistical data of the performance (run-time/ex
 This program consist of additional feature that is part of my research,
   the feature is to allow research on the new define problem called MATB.
 The MATB is best described in my, and my mentors: Dr. Dor Azmon, Prof. Ariel Felner.
-The paper was published on SOCS-2022 conference.
+The paper has been accepted for publication in the SOCS-2022 conference (will update link here when published).
 Paper Title: Meeting at the border of two separate domains.
 The additional feature is connecting two maps/graphs with border nodes connecting them.
 And my research main purpose was to develop new heuristic that make use of the border nodes
