@@ -1,4 +1,16 @@
 # Heuristic-grid-map-search-meet-at-the-border-of-two-graphs
+A big thank you to my academic supervisors Dr. Dor Azmon and Prof. Ariel Felner for there guidance and help, with their help I learned a lot and the paper has been accepted in the SOCS 2022   -->  BIG SUCCESS :)
+
+
+About this code:
+
+
+Important: 
+
+In class MarathonGUI need to maintain the list double[]    brL     = { 1.0, 0.4, 0.2, 0.1, 0.01} in descending order.
+Some parts of the code remained from older development, and might not work as expected, but the primary and majority does work properly.
+
+
 A program to implement and test-run heuristic search algorithms on a grid map or two maps that meet at a border.
 The program can run on a map, or on dual maps, the dual map is for my academic research.
 My acadmic research deals with finding optimal route for two separate agents each in his own domain to meet on the border.
