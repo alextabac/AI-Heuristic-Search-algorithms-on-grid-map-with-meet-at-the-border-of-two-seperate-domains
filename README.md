@@ -11,6 +11,22 @@ In class MarathonGUI need to maintain the list double[]    brL     = { 1.0, 0.4,
 Some parts of the code remained from older development, and might not work as expected, but the primary and majority does work properly.
 
 
+Citation:
+MM algorithm
+Holte, R. C.; Felner, A.; Sharon, G.; Sturtevant, N. R.; and
+Chen, J. 2017. MM: A bidirectional search algorithm that
+is guaranteed to meet in the middle. Artificial Intelligence,
+252: 232–266.
+
+
+fMM algorithm
+The Minimal Set of States that Must be Expanded in a Front-to-end Bidirectional
+Search. Shaham, E.; Felner, A.; Chen, J.; and Sturtevant, N. R. 2017.
+The Minimal Set of States that Must Be Expanded in a
+Front-to-End Bidirectional Search. In the International Sym-
+posium on Combinatorial Search (SoCS), 82–90.
+
+
 A program to implement and test-run heuristic search algorithms on a grid map or two maps that meet at a border.
 The program can run on a map, or on dual maps, the dual map is for my academic research.
 My acadmic research deals with finding optimal route for two separate agents each in his own domain to meet on the border.
