@@ -1,5 +1,5 @@
 # Heuristic-grid-map-search-meet-at-the-border-of-two-graphs
-A big thank you to my academic supervisors Dr. Dor Azmon and Prof. Ariel Felner for there guidance and help, with their help I learned a lot and the paper has been accepted in the SOCS 2022   -->  BIG SUCCESS :)
+A big thank you to my academic supervisors Dr. Dor Azmon and Prof. Ariel Felner for there guidance and help, with their help I learned a lot and the paper has been accepted in the SOCS 2022   -->  great success :)
 
 
 About this code:
