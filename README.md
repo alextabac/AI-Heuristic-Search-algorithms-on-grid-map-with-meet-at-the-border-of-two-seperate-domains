@@ -49,6 +49,7 @@ This program consist of additional feature that is part of my research,
   the feature is to allow research on the new define problem called MATB.
 The MATB is best described in my paper.
 The paper was published in the SOCS-2022 conference: https://ojs.aaai.org/index.php/SOCS/article/view/21775
+
 Paper Title: Meeting at the border of two separate domains.
 The additional feature is connecting two maps/graphs with border nodes connecting them.
 And my research main purpose was to develop new heuristic that make use of the border nodes
@@ -57,12 +58,10 @@ And my research main purpose was to develop new heuristic that make use of the b
 With this program I provide implementations for some of the known algorithms:
 A*, MM, fMM, A*+BMPX, with the heuristic FE and added my own heuristics from my research:
   FBE,  E-FBE.
-My research is still ongoing to develop a improvement to these new 2 heuristics.
-Users may test them, and develop their own.
-Plan to add additional search algorithms:  BS*, NBS.
+Researchers/Developers are encouraged to test them, and develop their own.
 
 The program was built with focus on object-oriented methodology.
-This allows to run exactly the algorithm class file on 2D and 3D.
+This allows to run exactly the same algorithm class file on 2D and 3D vertices.
 Also, able to provide the heuristic object to the algorithm and so,
 making different combinations of algorithms & heuristics.
 
